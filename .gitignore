@@ -1,3 +1,6 @@
+node_modules
+ssl
+
 # Logs
 logs
 *.log
